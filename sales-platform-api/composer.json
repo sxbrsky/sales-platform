@@ -1,0 +1,11 @@
+{
+    "name": "sxbrsky/sales-platform",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SalesPlatform\\": "app/"
+        }
+    }
+}
