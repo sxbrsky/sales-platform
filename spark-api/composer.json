@@ -1,10 +1,10 @@
 {
-    "name": "sxbrsky/sales-platform",
+    "name": "sxbrsky/spark",
     "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "SalesPlatform\\": "app/"
+            "Spark\\": "src/"
         }
     },
     "require-dev": {
