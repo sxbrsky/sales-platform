@@ -5,7 +5,7 @@ parameters:
     level: 10
 
     paths:
-        - app/
+        - src/
 
     excludePaths:
         - */vendor/
