@@ -1,0 +1,7 @@
+.php-cs-fixer.php
+.php-cs-fixer.cache
+
+composer.lock
+/vendor/*
+/var/*
+!/var/.gitkeep
